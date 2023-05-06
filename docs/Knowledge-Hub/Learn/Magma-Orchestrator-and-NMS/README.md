@@ -57,7 +57,7 @@ sudo service docker restart
 ```
 git clone https://github.com/magma/magma.git
 cd magma
-git checkout v1.8.0-rc1
+git checkout v1.8
 ```
 
 
